@@ -8,7 +8,7 @@ Selmon Rises is a 2D SUrvival Game Project Designed FOr Fun!
 - <kbd>J</kbd> attack or break stuff
 - <kbd>K</kbd> interact with stuff
 - <kbd>L</kbd> pickup stuff
-- <kbd>U</kbd> <kbd>I</kbd> access inventory
+- <kbd>U</kbd>, <kbd>I</kbd> access inventory
 - <kbd>T</kbd> aghhhhhhhhhhhh
 - <kbd>X</kbd> waypoint
 - get in boat + <kbd>L</kbd> <kbd>L</kbd> = thanos Snap
