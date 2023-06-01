@@ -1,6 +1,6 @@
 # Selmon Rises
 
-Selmon Rises is a 2D SUrvival Game Project Designed FOr Fun!
+Selmon Rises is a 2D Survival Game Project Designed For Fun!
 
 ## Game controls
 
