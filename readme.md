@@ -21,4 +21,4 @@ For the android build you need the Xamarin sdk
 
 ## 🎥 Gameplay video (Youtube)
 
-"Coming Soon"
+![selmon](https://github.com/user-attachments/assets/20b406f0-0b23-4af5-b371-f8c4c1a69b82)
