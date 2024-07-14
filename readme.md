@@ -19,6 +19,6 @@ Selmon Rises is a 2D SUrvival Game Project Designed FOr Fun!
 In order to build the game you will need Monogame Framework (3.7.1) and Visual Studio.
 For the android build you need the Xamarin sdk
 
-## 🎥 Gameplay video (Youtube)
+## 🎥 Gameplay video
 
 ![selmon](https://github.com/user-attachments/assets/20b406f0-0b23-4af5-b371-f8c4c1a69b82)
